@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466616219787",
+    "project_id": "myarticles-a21ac",
+    "storage_bucket": "myarticles-a21ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466616219787:android:2119a1e03abc528e90bc8e",
+        "android_client_info": {
+          "package_name": "com.genielogiciel.myarticle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466616219787-npcqmf2fa0egsnqquvdrn3k8udiu5lel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmsUlu1ahRCRv8CexIkmw54dYM5t4sVNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466616219787-npcqmf2fa0egsnqquvdrn3k8udiu5lel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
